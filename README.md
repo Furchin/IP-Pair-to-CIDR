@@ -1,5 +1,5 @@
 # Merge-CIDRs
-Given a pair of CIDRs (in either string format `"127.0.0.1/32"` or as `ip.cidrSubnet` objects), return an `ip.cidrSubnet` structure representing the smallest CIDR which encompasses both of the original CIDR blocks.
+Given a pair of CIDR blocks, return the smallest CIDR which encompasses both of the original CIDR blocks.
 
 Install with:
 
