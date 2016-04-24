@@ -2,7 +2,8 @@
   "name": "merge-cidrs",
   "private": false,
   "version": "1.0.0",
-  "license": "",
+  "license": "MIT",
+  "main": "./lib/index",
   "repository" : {
       "type" : "git",
       "url" : "https://github.com/Furchin/merge-cidrs"
